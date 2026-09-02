@@ -44,3 +44,5 @@ AO Y2 Term 1 Week 2. PDF: `weeks/week-02/Week2-Form-IB.pdf`
 - Picture study: Rockwell, Freedom of Speech (second look)
 - Composer: Bernstein, Jeremiah excerpt
 - Nature: Lost Pines invertebrate; heat
+
+Teacher book from Week 2 on: When Children Love to Learn (Elaine Cooper). Kids stay on AO Y2.
