@@ -7,8 +7,15 @@ Days: Wednesday–Saturday
 Spine: Ambleside Online Year 2
 Math: Ray's Arithmetic
 
-## Week 1 · Wed 2 Sep – Sat 5 Sep 2026
-AO Y2 Term 1 Week 1. PDF: `week-01-2026-09-02/Week1-Form-IB.pdf`
+## Calendar note · 2026-09-06
+Family took the school week of Sep 2–5 2026 off. All Form IB plans shifted forward ONE week. Content unchanged; only calendar dates moved.
+- Week 1 (AO Y2 T1 W1): now Wed–Sat Sep 9–12 2026 (was Sep 2–5)
+- Week 2 (AO Y2 T1 W2): now Wed–Sat Sep 16–19 2026 (was Sep 9–12)
+- Shelf books + Awana Week 3: starts Sep 23–26 2026
+- Week 5 buy-ahead (Trial and Triumph / optional TITT): early October (~Oct 7–10)
+
+## Week 1 · Wed 9 Sep – Sat 12 Sep 2026
+AO Y2 Term 1 Week 1. PDF: `weeks/week-01/Week1-Form-IB.pdf`
 
 - Bible: Exodus 1–3; Luke 19:1–9 (Zacchaeus)
 - Copywork: Slowly, silently, now the moon
@@ -28,7 +35,7 @@ AO Y2 Term 1 Week 1. PDF: `week-01-2026-09-02/Week1-Form-IB.pdf`
 
 Emailed 2026-09-02 from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (test send, confirmed in Sent).
 
-## Week 2 · Wed 9 Sep – Sat 12 Sep 2026
+## Week 2 · Wed 16 Sep – Sat 19 Sep 2026
 AO Y2 Term 1 Week 2. PDF: `weeks/week-02/Week2-Form-IB.pdf`
 
 - Bible: Exodus 4–6; Luke 19:10–27 (minas)
