@@ -34,6 +34,7 @@ AO Y2 Term 1 Week 1. PDF: `weeks/week-01/Week1-Form-IB.pdf`
 
 
 Emailed 2026-09-02 from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (test send, confirmed in Sent).
+Monday send 2026-09-07 8:40am America/Chicago: Week 1 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (subject Week 1 · Form IB plan (Sep 9–12); Week1-Form-IB.pdf; confirmed in Sent). Week 2 already on disk for next Monday.
 
 ## Week 2 · Wed 16 Sep – Sat 19 Sep 2026
 AO Y2 Term 1 Week 2. PDF: `weeks/week-02/Week2-Form-IB.pdf`
