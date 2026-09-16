@@ -12,7 +12,7 @@ Family took the school week of Sep 2–5 2026 off. All Form IB plans shifted for
 - Week 1 (AO Y2 T1 W1): now Wed–Sat Sep 9–12 2026 (was Sep 2–5)
 - Week 2 (AO Y2 T1 W2): now Wed–Sat Sep 16–19 2026 (was Sep 9–12)
 - Shelf books + Awana Week 3: starts Sep 23–26 2026
-- Week 5 buy-ahead (Trial and Triumph / optional TITT): early October (~Oct 7–10)
+- Owned now: Tree in the Trail, Trial and Triumph, Seabird (do not buy again). T&T next assign ~Week 5 Alfred; Seabird ~Week 19; Joan of Arc later (~Week 25).
 
 ## Week 1 · Wed 9 Sep – Sat 12 Sep 2026
 AO Y2 Term 1 Week 1. PDF: `weeks/week-01/Week1-Form-IB.pdf`
@@ -54,3 +54,27 @@ AO Y2 Term 1 Week 2. PDF: `weeks/week-02/Week2-Form-IB.pdf`
 - Nature: Lost Pines invertebrate; heat
 
 Teacher book from Week 2 on: When Children Love to Learn (Elaine Cooper). Kids stay on AO Y2.
+
+## Week 3 · Wed 23 Sep – Sat 26 Sep 2026
+AO Y2 Term 1 Week 3. PDF: `weeks/week-03/Week3-Form-IB.pdf`
+
+- Bible: Exodus 7–9 (plagues begin); Luke 19:28–44 (approach to Jerusalem)
+- Copywork: Some one came knocking (de la Mare, “Some One”)
+- Recitation: Genesis 1:1
+- History: Our Island Story, ch. 24 “The Battle of Hastings” (skip CHOW this week)
+- Tales: The Little Duke, ch. 2 first half
+- Geography: Tree in the Trail ch. 1 “The Lone Sapling” from their copy (catch-up; no Hillyer this week)
+- Nature lore: Burgess Animal Book ch. 3
+- Literature: Understood Betsy ch. 2; Pilgrim’s Progress (wicket-gate / journey start); Wind in the Willows ch. 3 Wild Wood (cap 20 min)
+- Shelf weave: Ray’s from Lesson 1 (each day); Harvey’s two short sittings; Grimm Pantheon one gentle tale by title; McGuffey nearby; Awana Wed+Thu after Bible
+- Poetry: de la Mare “Some One”
+- Hymn: I Bind Unto Myself Today (first stanza)
+- Folk: The Bold Grenadier
+- Picture study: Rockwell, Freedom of Speech (third look / brief)
+- Composer: Bernstein, Jeremiah excerpt
+- Owned / not assigned: Trial and Triumph (next ~Week 5 Alfred); Seabird (hold ~Week 19)
+- No Cooper chapter assignment; CM tips page instead
+- Skip: CHOW; Parables from Nature; Hillyer geography this week
+
+Packet built 2026-09-16. Week 1/2 PDFs untouched. Live week remains Week 2 (Sep 16–19).
+
