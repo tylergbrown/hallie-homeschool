@@ -77,4 +77,25 @@ AO Y2 Term 1 Week 3. PDF: `weeks/week-03/Week3-Form-IB.pdf`
 - Skip: CHOW; Parables from Nature; Hillyer geography this week
 
 Packet built 2026-09-16. Week 1/2 PDFs untouched. Live week remains Week 2 (Sep 16–19).
+Monday send 2026-09-21 ~8:44am America/Chicago: Week 3 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (subject Week 3 · Form IB plan (Sep 23–26); Week3-Form-IB.pdf; confirmed in Sent). Dashboard advanced to Week 3 live / Week 4 ahead.
+
+## Week 4 · Wed 30 Sep – Sat 3 Oct 2026
+AO Y2 Term 1 Week 4. PDF: `weeks/week-04/Week4-Form-IB.pdf`
+
+- Bible: Exodus 10–12; Luke 19:45–48, 20:1–8 (temple)
+- Copywork: Poor Tired Tim (de la Mare)
+- Recitation: Genesis 1:1
+- History: Our Island Story, ch. 25 Hereward the Wake
+- World history: CHOW “The End of the World” (Fri; not same day as Island Story)
+- Tales: The Little Duke, ch. 2 second half
+- Geography: Tree in the Trail ch. 2 from their copy (catch-up; ch. 3 only if room)
+- Nature lore: Burgess Animal Book ch. 4
+- Literature: Understood Betsy ch. 3; Pilgrim’s Progress continues; Wind in the Willows Mr. Badger (cap 20 min)
+- Shelf weave: Ray’s Lessons 5–8; Harvey’s twice; Grimm one tale by title; McGuffey nearby; Awana Wed+Thu after Bible
+- Hymn / folk / picture / composer: St. Patrick’s Breastplate; Bold Grenadier; Rockwell brief wrap; Bernstein Jeremiah excerpt
+- Owned / not assigned: Trial and Triumph (next ~Week 5 Alfred — intensity preview); Seabird (hold ~Week 19)
+- No Cooper chapter assignment; CM tips page instead
+- Skip: Parables from Nature; AO TITT jump past catch-up
+
+Packet built 2026-09-21. Ready for Monday Sep 28 send.
 
