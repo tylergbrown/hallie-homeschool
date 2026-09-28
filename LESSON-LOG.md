@@ -110,7 +110,7 @@ AO Y2 Term 1 Week 5. PDF: `weeks/week-05/Week5-Form-IB.pdf`
 - Tales: The Little Duke, ch. 3 first half (printed)
 - Geography: Tree in the Trail ch. 3 from their copy (catch-up; not AO ch. 7)
 - Nature lore: Burgess Animal Book ch. 5 (ch. 6 only if room)
-- Literature: Understood Betsy ch. 4; Pilgrim’s Progress continues; Wind in the Willows finish Badger (cap 20)
+- Literature: Understood Betsy ch. 4; Pilgrim’s Progress continues (Wind in the Willows finished — not assigned; Friday quiet riches instead)
 - Shelf weave: Ray’s Lessons 9–12; Harvey’s twice; Grimm one tale by title; McGuffey nearby; Awana Wed+Thu after Bible
 - World history note: Week 4 already covered Vikings/Leif via CHOW “End of the World” — do not reprint; Alfred carries history weight
 - No Cooper chapter assignment; CM tips page instead
@@ -121,3 +121,5 @@ Packet built 2026-09-28 after Week 4 Monday send. Ready for Monday Oct 5 send.
 
 
 
+
+Updated 2026-09-28 (America/Chicago): Dropped Wind in the Willows from Week 5 — book finished; Friday slot is quiet riches (picture study / composer / longer nature), no new novel. Bible remains ESV verse identifiers / references only (no printed body text). Week 4 unchanged (already emailed).
