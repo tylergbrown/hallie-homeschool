@@ -101,10 +101,10 @@ Packet built 2026-09-21. Ready for Monday Sep 28 send.
 Monday send 2026-09-28 ~8:25am America/Chicago: Week 4 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (subject Week 4 · Form IB plan (Sep 30–Oct 3); Week4-Form-IB.pdf; Bible rebuilt to ESV references only — no printed verse text; confirmed in Sent). Dashboard advanced to Week 4 live / Week 5 ahead.
 
 ## Week 5 · Wed 7 Oct – Sat 10 Oct 2026
-AO Y2 Term 1 Week 5. PDF: `weeks/week-05/Week5-Form-IB.pdf` (building after Week 4 send)
+AO Y2 Term 1 Week 5. PDF: `weeks/week-05/Week5-Form-IB.pdf`
 
 - Bible: Exodus 13–14; Luke 20:9–18 — ESV by reference only (physical Bible; never print verse text)
-- Copywork: new de la Mare line (not Tired Tim)
+- Copywork: The Horseman (de la Mare) — I heard a horseman
 - Recitation: Genesis 1:1 ESV (reference only)
 - History: no Island Story this AO week; Trial and Triumph Alfred from their copy (intensity preview)
 - Tales: The Little Duke, ch. 3 first half (printed)
@@ -115,6 +115,9 @@ AO Y2 Term 1 Week 5. PDF: `weeks/week-05/Week5-Form-IB.pdf` (building after Week
 - World history note: Week 4 already covered Vikings/Leif via CHOW “End of the World” — do not reprint; Alfred carries history weight
 - No Cooper chapter assignment; CM tips page instead
 - Owned / hold: Seabird (~Week 19); Joan of Arc buy-ahead later (~Week 22–25)
+
+Packet built 2026-09-28 after Week 4 Monday send. Ready for Monday Oct 5 send.
+
 
 
 
