@@ -123,3 +123,11 @@ Packet built 2026-09-28 after Week 4 Monday send. Ready for Monday Oct 5 send.
 
 
 Updated 2026-09-28 (America/Chicago): Dropped Wind in the Willows from Week 5 — book finished; Friday slot is quiet riches (picture study / composer / longer nature), no new novel. Bible remains ESV verse identifiers / references only (no printed body text). Week 4 unchanged (already emailed).
+
+## Monthly check-up · September 2026 (Weeks 1–4) · Astoria
+PDF: `checkups/2026-09/Checkup-2026-09-Astoria.pdf` (9 pages). Built 2026-10-03; goes out with the Week 5 send (Mon Oct 5). Two short sittings (e.g. Fri Oct 9 + Sat Oct 10).
+- Narration: Little Duke, Understood Betsy, Pilgrim's Progress, Wind in the Willows (optional), Island Story (Hastings, Hereward), Hillyer; Bible by ESV reference only (Exodus 3, Exodus 12, Luke 19:1–9)
+- Math: 9 original problems in the Ray's New Practical Lessons 1–8 range (reading/writing numbers, place value, Roman numerals, adding; carrying only if covered)
+- Geography (compass, Tree in the Trail), Science (Burgess, nature walk), copywork (Silver), dictation (Some One), recitation (Genesis 1:1 by reference; a September poem), riches optional
+- Rubric 0–3 per item; score sheet with subject totals; no letter grades or percentiles. Tracy: no check-up.
+- Scores due ~Oct 10 (photo of score sheet or typed to Wren). Not normed; national comparison is one normed test in spring 2027.

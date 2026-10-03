@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>September Check-up · Astoria · Form IB</title><style>
+
+  @page { size: letter; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    font-family: "Liberation Serif", "DejaVu Serif", Georgia, serif;
+    color: #2c2416;
+    background: #fff;
+    font-size: 11pt;
+    line-height: 1.35;
+  }
+  .page {
+    width: 8.5in;
+    height: 11in;
+    padding: 0.58in 0.62in 0.5in;
+    page-break-after: always;
+    break-after: page;
+    position: relative;
+    overflow: hidden;
+  }
+  .page:last-child { page-break-after: auto; break-after: auto; }
+  h1, h2, h3 { font-weight: 700; margin: 0; letter-spacing: 0.02em; }
+  .kicker {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 8.5pt;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #5a6b5c;
+    margin-bottom: 0.12in;
+  }
+  .title {
+    font-size: 22pt;
+    line-height: 1.1;
+    color: #3d4a3e;
+    border-bottom: 1.5pt solid #c4b49a;
+    padding-bottom: 0.1in;
+    margin-bottom: 0.14in;
+  }
+  .subtitle {
+    font-style: italic;
+    font-size: 11pt;
+    color: #5c5144;
+    margin: -0.06in 0 0.16in;
+  }
+  .rule { border: none; border-top: 0.75pt solid #c4b49a; margin: 0.12in 0; }
+  .cols { display: flex; gap: 0.28in; }
+  .cols.two > * { flex: 1; }
+  .box {
+    background: #f4efe4;
+    border: 0.75pt solid #d8ccb4;
+    padding: 0.12in 0.14in;
+  }
+  .box h3 {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 8pt;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #5a6b5c;
+    margin-bottom: 0.06in;
+  }
+  ul { margin: 0.04in 0 0.08in 0.18in; padding: 0; }
+  li { margin-bottom: 0.04in; }
+  p { margin: 0 0 0.08in; }
+  table { width: 100%; border-collapse: collapse; font-size: 10pt; }
+  th {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-align: left;
+    color: #5a6b5c;
+    border-bottom: 1pt solid #c4b49a;
+    padding: 0.04in 0.06in;
+  }
+  td {
+    padding: 0.055in 0.06in;
+    border-bottom: 0.5pt solid #e6dcc8;
+    vertical-align: top;
+  }
+  .muted { color: #6a5e50; font-size: 9.5pt; }
+  .foot {
+    position: absolute;
+    left: 0.62in; right: 0.62in; bottom: 0.32in;
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 8pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #8a7b68;
+    border-top: 0.75pt solid #c4b49a;
+    padding-top: 0.06in;
+    display: flex;
+    justify-content: space-between;
+  }
+  .dayhead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1.5pt solid #c4b49a;
+    padding-bottom: 0.08in;
+    margin-bottom: 0.12in;
+  }
+  .dayhead .when {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 9pt;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #5a6b5c;
+  }
+  .dayname { font-size: 22pt; color: #3d4a3e; }
+  .need {
+    background: #f4efe4;
+    border-left: 3.5pt solid #5a6b5c;
+    padding: 0.09in 0.12in;
+    margin-bottom: 0.12in;
+    font-size: 10pt;
+  }
+  .need strong {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 8pt;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #5a6b5c;
+    display: block;
+    margin-bottom: 0.03in;
+  }
+  .slot {
+    display: grid;
+    grid-template-columns: 0.72in 1fr;
+    gap: 0.08in;
+    padding: 0.07in 0;
+    border-bottom: 0.5pt solid #e6dcc8;
+  }
+  .slot:last-of-type { border-bottom: none; }
+  .time {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 9pt;
+    font-weight: 700;
+    color: #5a6b5c;
+    padding-top: 0.02in;
+  }
+  .slot h3 { font-size: 11.5pt; margin-bottom: 0.02in; }
+  .tag {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #7a6854;
+    margin-left: 0.08in;
+  }
+  .guide-item { margin-bottom: 0.13in; }
+  .guide-item h3 {
+    font-size: 12pt;
+    color: #3d4a3e;
+    margin-bottom: 0.03in;
+  }
+  .num {
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 8pt;
+    color: #5a6b5c;
+    letter-spacing: 0.08em;
+    margin-right: 0.06in;
+  }
+  .chip {
+    display: inline-block;
+    font-family: "Liberation Sans", "DejaVu Sans", sans-serif;
+    font-size: 8pt;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    border: 0.75pt solid #c4b49a;
+    padding: 0.01in 0.07in;
+    margin-right: 0.04in;
+    color: #5c5144;
+  }
+  .teach h2 {
+    font-size: 13pt;
+    color: #3d4a3e;
+    margin: 0.12in 0 0.05in;
+  }
+  .teach h2:first-child { margin-top: 0; }
+  .stop {
+    background: #f4efe4;
+    border-left: 3.5pt solid #5a6b5c;
+    padding: 0.08in 0.12in;
+    margin: 0.1in 0 0.12in;
+    font-size: 10.5pt;
+  }
+
+  
+  .item { display:grid; grid-template-columns:0.42in 1fr 0.9in; gap:0.08in; padding:0.07in 0; border-bottom:0.5pt solid #e6dcc8; }
+  .item .id { font-family:"Liberation Sans","DejaVu Sans",sans-serif; font-weight:700; font-size:9pt; color:#5a6b5c; padding-top:0.02in; }
+  .item .sc { font-family:"Liberation Sans","DejaVu Sans",sans-serif; font-size:8pt; color:#8a7b68; text-align:right; white-space:nowrap; padding-top:0.02in; }
+  .item h3 { font-size:11pt; margin-bottom:0.02in; }
+  .item p { margin:0; font-size:10pt; }
+  .look { font-size:9pt; color:#6a5e50; font-style:italic; }
+  .sect { font-family:"Liberation Sans","DejaVu Sans",sans-serif; font-size:8.5pt; letter-spacing:0.16em; text-transform:uppercase; color:#5a6b5c; margin:0.14in 0 0.02in; border-bottom:1pt solid #c4b49a; padding-bottom:0.03in; }
+  .lines div { border-bottom:0.75pt solid #c4b49a; height:0.42in; }
+  .lines.tall div { height:0.5in; }
+  .score td { height:0.3in; }
+  .score td.n { width:0.55in; text-align:center; }
+  .sum td { background:#f4efe4; font-weight:700; }
+  .prob { display:grid; grid-template-columns:1fr 1fr; gap:0.1in 0.3in; }
+  .prob .p { border:0.75pt solid #d8ccb4; padding:0.08in 0.1in; min-height:1.15in; font-size:13pt; }
+  .prob .p small { display:block; font-family:"Liberation Sans","DejaVu Sans",sans-serif; font-size:7.5pt; letter-spacing:0.1em; text-transform:uppercase; color:#5a6b5c; margin-bottom:0.04in; }
+  pre.sum-col { font-family:"DejaVu Sans Mono",monospace; font-size:15pt; margin:0.02in 0 0 0.2in; line-height:1.25; }
+  .srow td { padding:0.03in 0.06in; }
+</style></head><body>
+<section class="page">
+<div class="kicker">Charlotte Mason · Form IB / 2nd grade · Bastrop, Texas · Monthly check-up no. 1</div>
+<h1 class="title">September Check-up · Astoria · Form IB</h1>
+<p class="subtitle">Covers Weeks 1–4 (Sep 9 – Oct 3, 2026) · AO Year 2 Term 1 · two short sittings, about 20–30 minutes each</p>
+<div class="need"><strong>What this is</strong>A gentle, Charlotte Mason–style “exam”: Astoria tells back what she knows, does a few sums, writes her best line, and recites. Nothing here is new material; every question comes from September’s lessons. It is <em>not</em> a graded test and there are no letter grades, percentages, or percentiles. The scores just show us, month by month, what is settling in.</div>
+<div class="cols two" style="margin-bottom:0.14in;">
+<div class="box"><h3>Day 1 · about 30 min</h3><ul>
+<li>Narration: Literature &amp; Tales (L1–L4)</li><li>Narration: History (H1–H3)</li><li>Narration: Bible, by reference (B1–B3)</li><li>Math: oral, then written (M1–M9)</li></ul>
+<p class="muted">Suggested: Friday of Week 5 (Oct 9), or any day Hallie picks.</p></div>
+<div class="box"><h3>Day 2 · about 25 min</h3><ul>
+<li>Narration: Geography (G1–G2)</li><li>Narration: Science &amp; Nature (S1–S2)</li><li>Copywork + dictation (C1, D1)</li><li>Recitation (R1–R2)</li><li>Riches, optional (A1–A4)</li></ul>
+<p class="muted">Suggested: Saturday of Week 5 (Oct 10).</p></div></div>
+<table><thead><tr><th style="width:14%">Score</th><th style="width:22%">Means</th><th>What it looks like</th></tr></thead><tbody>
+<tr><td><strong>3</strong></td><td>Confidently</td><td>On her own, in order, with real detail (names, places, what happened). Math right without help. Neat, careful letters.</td></tr>
+<tr><td><strong>2</strong></td><td>Mostly</td><td>The main idea and some detail; a small slip or one gentle prompt (“And then?”).</td></tr>
+<tr><td><strong>1</strong></td><td>With help</td><td>Bits and pieces, or only with several prompts or a hint. Math right only after you walk through it.</td></tr>
+<tr><td><strong>0</strong></td><td>Not yet</td><td>Doesn’t remember it yet, or it wasn’t reached. That is fine; it just tells us what to revisit.</td></tr>
+</tbody></table>
+<div class="stop"><strong>How to give it.</strong> Read each prompt as written, then wait. Don’t correct during a narration. Jot two or three key points she says in the score sheet’s notes column (pages 7–8), then circle 0–3. If something wasn’t actually covered, write “n/a” instead of a score. Stop early if she’s tired; finish the next day.</div>
+<p class="muted"><strong>Bible:</strong> references only. Open your ESV to the chapter if she wants to look; no Bible text is printed here. <strong>Tracy (2):</strong> no check-up; she may sit nearby with crayons or McGuffey pictures and join the songs.</p>
+<div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 1 of 9</span></div></section>
+<section class="page">
+<div class="dayhead"><span class="dayname">Day 1 · Narration</span><span class="when">about 15 min · oral · Hallie jots key points</span></div>
+<div class="sect">Literature &amp; Tales</div>
+<div class="item"><div class="id">L1</div><div><h3>The Little Duke</h3><p>Tell me about Richard. Who is he, where did he live, and what happened to his father?</p><p class="look">Listen for: Bayeux, Fru Astrida, William Longsword, the treacherous meeting, Richard becoming Duke, the ride into Rouen.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">L2</div><div><h3>Understood Betsy</h3><p>Tell me about Elizabeth Ann. Why did she leave her aunts, and what was new for her at Putney Farm?</p><p class="look">Listen for: the aunts, the trip, the Putney cousins, doing things for herself.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">L3</div><div><h3>Pilgrim’s Progress</h3><p>What happened when Christian came to the Slough of Despond?</p><p class="look">Listen for: the burden, the wicket-gate, Pliable turning back, Help pulling him out.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">L4</div><div><h3>The Wind in the Willows <span class='tag'>optional · finished book</span></h3><p>Tell me about Mole in the Wild Wood. Who found him, and where did they go?</p><p class="look">Listen for: lost in the snow, Rat comes, Mr. Badger’s home.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="sect">History</div>
+<div class="item"><div class="id">H1</div><div><h3>Our Island Story · Hastings</h3><p>Tell me what happened at the Battle of Hastings.</p><p class="look">Listen for: Harold, William of Normandy, 1066, the arrow, William becoming king.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">H2</div><div><h3>Our Island Story · Hereward</h3><p>Tell me about Hereward the Wake.</p><p class="look">Listen for: hiding in the fens, fighting the Normans, how he was betrayed.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">H3</div><div><h3>A Child’s History of the World <span class='tag'>Hillyer</span></h3><p>Tell me about Charlemagne, or about the people who thought the world would end.</p><p class="look">Listen for: Charlemagne’s empire; the year 1000; Vikings / Leif. (Either one counts.)</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="sect">Bible · by reference only (ESV)</div>
+<div class="item"><div class="id">B1</div><div><h3>Exodus 3</h3><p>Tell what happened at Exodus 3.</p><p class="look">Listen for: who, where, what God told him to do.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">B2</div><div><h3>Exodus 12</h3><p>Tell what happened at Exodus 12.</p><p class="look">Listen for: what each family did, and what happened that night.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">B3</div><div><h3>Luke 19:1–9</h3><p>Tell what happened at Luke 19:1–9.</p><p class="look">Listen for: who, why he climbed, and what changed for him.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 2 of 9</span></div></section>
+<section class="page">
+<div class="dayhead"><span class="dayname">Day 1 · Math</span><span class="when">about 12–15 min · oral first, then written</span></div>
+<p class="muted">Original problems in the range of Ray’s New Practical Arithmetic Lessons 1–8 (reading and writing numbers, place value, Roman numerals, adding). If your copy hadn’t reached a skill by Lesson 8, write “n/a”. Don’t score it 0.</p>
+<div class="sect">Oral · she answers aloud (Hallie writes the numbers on a card for M1)</div>
+<div class="item"><div class="id">M1</div><div><h3>Reading numbers</h3><p>Point to each and ask her to read it aloud: <strong>48 · 306 · 570 · 1,204</strong></p><p class="look">Listen for: says each number correctly; zeros handled (“three hundred six”).</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">M2</div><div><h3>Place value</h3><p>In the number <strong>463</strong>, how many hundreds? How many tens? How many units (ones)?</p><p class="look">Listen for: 4 hundreds, 6 tens, 3 units.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">M3</div><div><h3>Adding facts</h3><p><strong>7 + 5 · 8 + 6 · 9 + 4 · 6 + 7 · 9 + 9</strong>, said quickly, one at a time</p><p class="look">Listen for: 12, 14, 13, 13, 18; quick recall vs. counting on fingers (note which).</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">M4</div><div><h3>Story sum</h3><p>Astoria picks 9 pecans before lunch and 7 after lunch. How many pecans does she have?</p><p class="look">Listen for: 16, and can she say how she knew.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">M5</div><div><h3>Story sum</h3><p>A hen house has 20 hens. Papa brings home 12 more. Then 5 chicks hatch. How many birds now?</p><p class="look">Listen for: 37; keeps track of two steps.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="sect">Written · on page 6 (Astoria’s page)</div>
+<div class="item"><div class="id">M6</div><div><h3>Write in figures</h3><p>Hallie says: “two hundred fifty-three” and “four hundred eight.” Astoria writes the numbers.</p><p class="look">Listen for: 253 and 408 (watch the zero).</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">M7</div><div><h3>Roman numerals</h3><p>Write as Roman numerals: 3, 6, 9, 14. Then read <strong>XII</strong> and <strong>XX</strong>.</p><p class="look">Listen for: III, VI, IX, XIV; twelve, twenty.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">M8</div><div><h3>Column adding</h3><p>Add: <strong>324 + 152</strong> and <strong>41 + 23 + 15</strong></p><p class="look">Listen for: 476 and 79; lines digits up in columns.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">M9</div><div><h3>Adding with carrying <span class='tag'>only if covered</span></h3><p>Add: <strong>58 + 27</strong> and <strong>146 + 38</strong></p><p class="look">Listen for: 85 and 184; carries the ten.</p></div><div class="sc">0–3 or n/a</div></div>
+<div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 3 of 9</span></div></section>
+<section class="page">
+<div class="dayhead"><span class="dayname">Day 2</span><span class="when">about 25 min in all · narration, handwriting</span></div>
+<div class="sect">Geography</div>
+<div class="item"><div class="id">G1</div><div><h3>Compass</h3><p>Stand by the front door. Show me north, south, east, and west. How can you tell?</p><p class="look">Listen for: points correctly; uses the sun (rises in the east) or a compass.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">G2</div><div><h3>Tree in the Trail</h3><p>Tell me about the little tree in Tree in the Trail. Where did it grow, and who passed by it?</p><p class="look">Listen for: the lone sapling on the plains, buffalo, people passing.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="sect">Science &amp; Nature</div>
+<div class="item"><div class="id">S1</div><div><h3>Burgess Animal Book</h3><p>Tell me about Peter Rabbit’s school with Old Mother Nature. Which animals did you learn about?</p><p class="look">Listen for: Jenny Wren’s idea, Peter’s long-legged cousins, Chatterer and Happy Jack.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">S2</div><div><h3>Nature walks</h3><p>Tell me about a small creature you found on our walks in the Lost Pines. What did it look like and what was it doing? (She may draw it.)</p><p class="look">Listen for: her own observation: color, legs, where, behavior.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="sect">Copywork &amp; dictation</div>
+<div class="item"><div class="id">C1</div><div><h3>Copywork · best handwriting</h3><p>On page 6, copy once, slowly: the two lines from <em>Silver</em> (de la Mare) printed there.</p><p class="look">Listen for: letters formed well, sits on the line, spaces between words, capitals and punctuation copied.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">D1</div><div><h3>Dictation · prepared</h3><p>Let her study the <em>Some One</em> lines on page 6 for a minute, then cover them. Read them aloud once, slowly; she writes from your voice.</p><p class="look">Listen for: words spelled right, capitals, commas, the semicolon. Count slips in the notes.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 4 of 9</span></div></section>
+<section class="page">
+<div class="dayhead"><span class="dayname">Day 2 · continued</span><span class="when">recitation · riches (optional)</span></div>
+<div class="sect">Recitation</div>
+<div class="item"><div class="id">R1</div><div><h3>Genesis 1:1 <span class='tag'>ESV · reference only</span></h3><p>Please say Genesis 1:1.</p><p class="look">Listen for: word-perfect from memory, clear voice.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">R2</div><div><h3>A September poem</h3><p>Say any September poem you know: <em>Silver</em>, <em>The Cupboard</em>, <em>Some One</em>, or <em>Tired Tim</em> (a stanza is fine).</p><p class="look">Listen for: which poem, how far, with expression.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="sect">Riches · optional · describe from memory</div>
+<div class="item"><div class="id">A1</div><div><h3>Picture study</h3><p>Without looking: tell me about Rockwell’s <em>Freedom of Speech</em>. Who is in it and what is happening?</p><p class="look">Listen for: the standing man, the people looking up, the meeting.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">A2</div><div><h3>Composer</h3><p>Tell me about the Bernstein music we listened to (<em>Jeremiah</em>). How did it sound or make you feel?</p><p class="look">Listen for: her own words: slow, sad, loud, a singer.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">A3</div><div><h3>Hymn</h3><p>Sing the first stanza of “I Bind Unto Myself Today.”</p><p class="look">Listen for: words and tune.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="item"><div class="id">A4</div><div><h3>Folk song</h3><p>Sing what you know of “The Bold Grenadier.”</p><p class="look">Listen for: words and tune.</p></div><div class="sc">0 · 1 · 2 · 3</div></div>
+<div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 5 of 9</span></div></section>
+<section class="page">
+<div class="kicker">Astoria’s page · use your best handwriting</div>
+<h1 class="title">My September Check-up</h1>
+<div class="sect">M6 · Write the numbers you hear</div>
+<div class="cols two"><div class="lines"><div></div></div><div class="lines"><div></div></div></div>
+<div class="sect">M7 · Roman numerals</div>
+<div class="prob" style="grid-template-columns:1fr 1fr 1fr 1fr;"><div class="p" style="min-height:0.6in"><small>3</small></div><div class="p" style="min-height:0.6in"><small>6</small></div><div class="p" style="min-height:0.6in"><small>9</small></div><div class="p" style="min-height:0.6in"><small>14</small></div></div>
+<div class="sect">M8 · M9 · Add</div>
+<div class="prob" style="grid-template-columns:1fr 1fr 1fr 1fr;">
+<div class="p"><small>M8 a</small><pre class="sum-col">  324
++ 152
+-----</pre></div>
+<div class="p"><small>M8 b</small><pre class="sum-col">   41
+   23
++  15
+-----</pre></div>
+<div class="p"><small>M9 a</small><pre class="sum-col">   58
++  27
+-----</pre></div>
+<div class="p"><small>M9 b</small><pre class="sum-col">  146
++  38
+-----</pre></div></div>
+<div class="sect">C1 · Copywork: copy these two lines slowly</div>
+<p style="font-size:15pt;margin:0.06in 0 0.02in;">Slowly, silently, now the moon<br>Walks the night in her silver shoon:</p>
+<p class="muted" style="margin:0 0 0.04in;">— Walter de la Mare, “Silver”</p>
+<div class="lines tall"><div></div><div></div></div>
+<div class="sect">D1 · Dictation: study, then Mama covers this and reads it to you</div>
+<p style="font-size:15pt;margin:0.06in 0 0.02in;">Some one came knocking<br>At my wee, small door;</p>
+<p class="muted" style="margin:0 0 0.04in;">— Walter de la Mare, “Some One” (fold this strip under before writing)</p>
+<div class="lines tall"><div></div><div></div></div>
+<div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 6 of 9</span></div></section>
+<section class="page" style="padding-top:0.45in;">
+<div class="kicker">Score sheet · photograph this page and send it to Wren</div>
+<h1 class="title" style="font-size:17pt;margin-bottom:0.06in;">September Check-up · Score Sheet</h1>
+<p class="muted" style="margin-bottom:0.04in;">Date(s) given: ____________ · Given by: Hallie · Circle 0–3 (or write n/a). Notes = two or three key points she said, or what tripped her up.</p>
+<table style="font-size:8.6pt;"><thead><tr><th>Item</th><th style="text-align:center">Score</th><th>Notes</th></tr></thead><tbody><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>Literature & Tales</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">L1 Little Duke</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">L2 Understood Betsy</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">L3 Pilgrim’s Progress</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">L4 Wind in the Willows (opt.)</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>Literature & Tales total</td><td class="n">___ / 12</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>History</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">H1 Hastings</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">H2 Hereward</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">H3 Hillyer (CHOW)</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>History total</td><td class="n">___ / 9</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>Bible (by reference)</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">B1 Exodus 3</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">B2 Exodus 12</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">B3 Luke 19:1–9</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>Bible (by reference) total</td><td class="n">___ / 9</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>Math</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M1 Reading numbers</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M2 Place value</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M3 Adding facts</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M4 Story sum</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M5 Two-step story</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M6 Write in figures</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M7 Roman numerals</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M8 Column adding</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">M9 Carrying (if covered)</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>Math total</td><td class="n">___ / 27</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr></tbody></table>
+<div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 7 of 9</span></div></section>
+<section class="page" style="padding-top:0.45in;">
+<div class="kicker">Score sheet · continued · photograph both pages</div>
+<h1 class="title" style="font-size:17pt;margin-bottom:0.06in;">Score Sheet (continued)</h1>
+<table style="font-size:8.6pt;"><thead><tr><th>Item</th><th style="text-align:center">Score</th><th>Notes</th></tr></thead><tbody><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>Geography</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">G1 Compass</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">G2 Tree in the Trail</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>Geography total</td><td class="n">___ / 6</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>Science & Nature</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">S1 Burgess</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">S2 Nature walk</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>Science & Nature total</td><td class="n">___ / 6</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>Language Arts</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">C1 Copywork</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">D1 Dictation</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>Language Arts total</td><td class="n">___ / 6</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>Recitation</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">R1 Genesis 1:1</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">R2 Poem</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>Recitation total</td><td class="n">___ / 6</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr><tr><td colspan="3" style="font-family:Liberation Sans,DejaVu Sans,sans-serif;font-size:8pt;letter-spacing:0.12em;text-transform:uppercase;color:#5a6b5c;padding-top:0.06in;border-bottom:none;"><strong>Riches (optional)</strong></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">A1 Picture study</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">A2 Composer</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">A3 Hymn</td><td class="n">0 1 2 3</td><td></td></tr><tr class="score" style="height:0.2in"><td style="width:2.1in">A4 Folk song</td><td class="n">0 1 2 3</td><td></td></tr><tr class="sum"><td>Riches (optional) total</td><td class="n">___ / 12</td><td style="font-weight:400;font-size:8.5pt;color:#6a5e50">n/a items: subtract 3 each from the max</td></tr></tbody></table>
+<table style="margin-top:0.1in;font-size:9pt;"><thead><tr><th>September summary</th><th style="text-align:center">Total</th><th style="text-align:center">Max (minus n/a)</th></tr></thead><tbody>
+<tr class="srow"><td>Literature &amp; Tales</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 12</td></tr><tr class="srow"><td>History</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 9</td></tr><tr class="srow"><td>Bible (by reference)</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 9</td></tr><tr class="srow"><td>Math</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 27</td></tr><tr class="srow"><td>Geography</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 6</td></tr><tr class="srow"><td>Science &amp; Nature</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 6</td></tr><tr class="srow"><td>Language Arts</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 6</td></tr><tr class="srow"><td>Recitation</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 6</td></tr><tr class="srow"><td>Riches (optional)</td><td class="n" style="width:1.2in">____</td><td class="n" style="width:1.4in">____ / 12</td></tr></tbody></table>
+<p class="muted" style="margin-top:0.08in;">No letter grades, no percentages. Wren records each subject total next to last month’s so the trend shows over the year.</p><div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 8 of 9</span></div></section></section>
+<section class="page">
+<div class="kicker">For Hallie · after the check-up</div>
+<h1 class="title">Scoring Guide &amp; Sending Scores</h1>
+<table><thead><tr><th style="width:18%">Kind</th><th>3 · confidently</th><th>2 · mostly</th><th>1 · with help</th><th>0 · not yet</th></tr></thead><tbody>
+<tr><td><strong>Narration</strong></td><td>Tells it in order, on her own, with names and real detail</td><td>Main events, some detail, one prompt</td><td>Fragments, or needs several prompts</td><td>Can’t recall it yet</td></tr>
+<tr><td><strong>Math</strong></td><td>Right, without help; facts quick</td><td>Right with one slip she fixes, or slow counting</td><td>Right only after you walk through it</td><td>Not yet, or wrong</td></tr>
+<tr><td><strong>Copywork</strong></td><td>Careful letters, on the line, spaced, every mark copied</td><td>Mostly neat; a few letters off</td><td>Finished, with many corrections or your help</td><td>Not yet able</td></tr>
+<tr><td><strong>Dictation</strong></td><td>No slips</td><td>1–2 slips</td><td>3–5 slips, or needed it read more than twice</td><td>More than 5 slips</td></tr>
+<tr><td><strong>Recitation</strong></td><td>Word-perfect, clear voice</td><td>One or two small slips</td><td>Needs prompting to get through</td><td>Not yet memorized</td></tr>
+<tr><td><strong>Riches</strong></td><td>Describes or sings it with detail</td><td>Some detail or most words</td><td>A little, with prompts</td><td>Doesn’t recall yet</td></tr>
+</tbody></table>
+<div class="cols two" style="margin-top:0.18in;">
+<div class="box"><h3>Send the scores (by Sat Oct 10 if you can)</h3><ul>
+<li>Photo of the score sheet (pages 7–8) and Astoria’s page (page 6), <strong>or</strong></li>
+<li>Type them in chat to Wren, e.g. “L1 3, L2 2, … notes: …”</li>
+<li>Skipped anything? Write n/a. Fine to send a partial sheet.</li></ul></div>
+<div class="box"><h3>What happens with them</h3><ul>
+<li>Wren files them in the kids’ education notebook.</li>
+<li>Each month’s totals go on Astoria’s trajectory, so we can see the trend.</li>
+<li>Low items become next month’s review ideas, never extra drills.</li></ul></div></div>
+<div class="stop"><strong>Not a standardized test.</strong> These are home check-ups written from our own lessons. They show Astoria’s own trend over the year. They can’t be turned into percentiles or compared with Texas or national averages. For that, the plan is one nationally normed test at the end of the school year (spring 2027).</div>
+<p class="muted">Next check-up: October (Weeks 5–8), sent with the first packet of November. Same format, same 0–3 scale.</p>
+<div class="foot"><span>September Check-up · Astoria · Form IB</span><span>Page 9 of 9</span></div></section>
+</body></html>
