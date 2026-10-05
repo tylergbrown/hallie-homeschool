@@ -118,11 +118,8 @@ AO Y2 Term 1 Week 5. PDF: `weeks/week-05/Week5-Form-IB.pdf`
 
 Packet built 2026-09-28 after Week 4 Monday send. Ready for Monday Oct 5 send.
 
-
-
-
-
 Updated 2026-09-28 (America/Chicago): Dropped Wind in the Willows from Week 5 — book finished; Friday slot is quiet riches (picture study / composer / longer nature), no new novel. Bible remains ESV verse identifiers / references only (no printed body text). Week 4 unchanged (already emailed).
+Monday send 2026-10-05 ~8:55am America/Chicago: Week 5 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com only (subject Week 5 · Form IB plan (Oct 7–10) + new monthly check-up; Week5-Form-IB.pdf (36 pages) + Checkup-2026-09-Astoria.pdf (9 pages); body introduces the monthly check-up and asks Hallie for feedback on format/timing/length, or to skip it; Bible ESV references only — no printed verse text; confirmed in Sent). September check-up went out with it — scores pending from Hallie (~Oct 10). Dashboard advanced to Week 5 live / Week 6 ahead.
 
 ## Monthly check-up · September 2026 (Weeks 1–4) · Astoria
 PDF: `checkups/2026-09/Checkup-2026-09-Astoria.pdf` (9 pages). Built 2026-10-03; goes out with the Week 5 send (Mon Oct 5). Two short sittings (e.g. Fri Oct 9 + Sat Oct 10).
@@ -131,3 +128,26 @@ PDF: `checkups/2026-09/Checkup-2026-09-Astoria.pdf` (9 pages). Built 2026-10-03;
 - Geography (compass, Tree in the Trail), Science (Burgess, nature walk), copywork (Silver), dictation (Some One), recitation (Genesis 1:1 by reference; a September poem), riches optional
 - Rubric 0–3 per item; score sheet with subject totals; no letter grades or percentiles. Tracy: no check-up.
 - Scores due ~Oct 10 (photo of score sheet or typed to Wren). Not normed; national comparison is one normed test in spring 2027.
+- Sent 2026-10-05 ~8:55am America/Chicago with the Week 5 email (attachment Checkup-2026-09-Astoria.pdf). Scores pending from Hallie (~Oct 10); not yet recorded. Hallie may also reply with format/timing/length feedback or choose to skip.
+
+## Week 6 · Wed 14 Oct – Sat 17 Oct 2026
+AO Y2 Term 1 Week 6. PDF: `weeks/week-06/Week6-Form-IB.pdf`
+
+Packet built 2026-10-05. Ready for Monday Oct 12 send. (42 pages; Burgess ch. 7 printed as optional.)
+
+- Bible: Exodus 15 (15:19–27; Song of Moses 15:1–18 optional per AO), Exodus 16; Luke 20:19–26 — ESV by reference only (physical Bible; never print verse text)
+- Copywork: The Huntsmen (de la Mare) — Three jolly gentlemen, / In coats of red,
+- Recitation: Genesis 1:1 ESV (reference only); optional: “The Horseman” by heart
+- Dictation (optional, Sat): “In coats of red,” prepared
+- History: Our Island Story ch. 26, The Death of William the Conqueror (printed; moved from Week 5). No CHOW, no Trial and Triumph this AO week
+- Tales: The Little Duke, ch. 3 second half (printed) — chapter 3 finished
+- Geography: Tree in the Trail ch. 4 from their copy (catch-up; not AO ch. 8–9)
+- Nature lore: Burgess Animal Book ch. 6 (ch. 7 printed as optional second sitting; else opens Week 7)
+- Literature: Understood Betsy ch. 5 (printed, 20-min cap, may split); Pilgrim’s Progress — Worldly Wiseman’s counsel through the hill and Bunyan’s verse (~1,000 words; Evangelist next)
+- Poetry: de la Mare “The Huntsmen”
+- Shelf weave: Ray’s Lessons 13–16; Harvey’s twice (Thu + Sat); Grimm one tale by title (Bremen Town Musicians or Sweet Porridge); McGuffey nearby for Tracy; Awana Wed+Thu after Bible
+- Hymn / folk / picture / composer: I Bind Unto Myself Today (first stanza); Bold Grenadier; Rockwell Freedom of Worship (new); Bernstein Jeremiah, movement II
+- Preschool corner page for Tracy (informal only)
+- No Cooper chapter assignment; CM tips page instead
+- Owned / hold: Trial and Triumph next ~Week 9 Anselm; Seabird (~Week 19); buy-ahead: nothing for Weeks 7–9; Joan of Arc later (~Week 22–25)
+- Skip: Parables from Nature (AO “Light of Truth”), as in Weeks 3–5
