@@ -103,6 +103,8 @@ Monday send 2026-09-28 ~8:25am America/Chicago: Week 4 PDF emailed from tylerbro
 ## Week 5 · Wed 7 Oct – Sat 10 Oct 2026
 AO Y2 Term 1 Week 5. PDF: `weeks/week-05/Week5-Form-IB.pdf`
 
+Packet built 2026-09-28 (36 pages after WITW drop). Do not email/push until parent directs. Copywork: de la Mare “The Horseman.”
+
 - Bible: Exodus 13–14; Luke 20:9–18 — ESV by reference only (physical Bible; never print verse text)
 - Copywork: The Horseman (de la Mare) — I heard a horseman
 - Recitation: Genesis 1:1 ESV (reference only)
@@ -115,8 +117,6 @@ AO Y2 Term 1 Week 5. PDF: `weeks/week-05/Week5-Form-IB.pdf`
 - World history note: Week 4 already covered Vikings/Leif via CHOW “End of the World” — do not reprint; Alfred carries history weight
 - No Cooper chapter assignment; CM tips page instead
 - Owned / hold: Seabird (~Week 19); Joan of Arc buy-ahead later (~Week 22–25)
-
-Packet built 2026-09-28 after Week 4 Monday send. Ready for Monday Oct 5 send.
 
 Updated 2026-09-28 (America/Chicago): Dropped Wind in the Willows from Week 5 — book finished; Friday slot is quiet riches (picture study / composer / longer nature), no new novel. Bible remains ESV verse identifiers / references only (no printed body text). Week 4 unchanged (already emailed).
 Monday send 2026-10-05 ~8:55am America/Chicago: Week 5 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com only (subject Week 5 · Form IB plan (Oct 7–10) + new monthly check-up; Week5-Form-IB.pdf (36 pages) + Checkup-2026-09-Astoria.pdf (9 pages); body introduces the monthly check-up and asks Hallie for feedback on format/timing/length, or to skip it; Bible ESV references only — no printed verse text; confirmed in Sent). September check-up went out with it — scores pending from Hallie (~Oct 10). Dashboard advanced to Week 5 live / Week 6 ahead.
@@ -151,3 +151,27 @@ Packet built 2026-10-05. Ready for Monday Oct 12 send. (42 pages; Burgess ch. 7 
 - No Cooper chapter assignment; CM tips page instead
 - Owned / hold: Trial and Triumph next ~Week 9 Anselm; Seabird (~Week 19); buy-ahead: nothing for Weeks 7–9; Joan of Arc later (~Week 22–25)
 - Skip: Parables from Nature (AO “Light of Truth”), as in Weeks 3–5
+
+## Week 7 · Wed 21 Oct – Sat 24 Oct 2026
+AO Y2 Term 1 Week 7. PDF: `weeks/week-07/Week7-Form-IB.pdf`
+
+Packet built 2026-10-12 (47 pages). Planned send Mon Oct 19. (Week 6 Outbox ready for nala; not marked completed.)
+
+- Bible: Exodus 17 (Wed; Thu may finish if long); Luke 20:27–47 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn).
+- Copywork: The Bandog (de la Mare) — Has anybody seen my Mopser? —
+- Recitation: Genesis 1:1 ESV (reference only); optional: “The Huntsmen” by heart
+- Dictation (optional, Sat): Bandog opening line, prepared
+- History: Our Island Story ch. 27, The Story of William the Red (printed)
+- World history: Hillyer CHOW “Real Castles” (ch. 50 modern / ch. 48 1st ed) from their copy only — never reprint
+- Tales: The Little Duke, ch. 4 first half (printed) — second half next week
+- Geography: Tree in the Trail ch. 5 from their copy (catch-up; do NOT jump to AO ch. 10)
+- Nature lore: Burgess Animal Book ch. 7 (ch. 8 printed as optional second sitting; do not jump to AO ch. 9)
+- Literature: Understood Betsy ch. 6 (printed, 20-min cap, may split); Pilgrim’s Progress — Evangelist under the hill (~1,100 words; continues after W6 Worldly Wiseman)
+- Shakespeare: Nesbit Romeo and Juliet gentle sitting through secret marriage (printed; stop before Tybalt)
+- Poetry: de la Mare “The Bandog”
+- Shelf weave: Ray’s Lessons 17–20; Harvey’s twice (Thu + Sat); Grimm one tale by title (Elves and the Shoemaker); McGuffey nearby for Tracy; Awana Wed+Thu after Bible
+- Hymn / folk / picture / composer: I Bind Unto Myself Today; Bold Grenadier; Rockwell Freedom of Worship continuing or next Freedom; Bernstein Jeremiah
+- Preschool corner page for Tracy (informal only)
+- No Cooper chapter assignment; CM tips page instead
+- Owned / hold: Trial and Triumph next ~Week 9 Anselm; Seabird (~Week 19); buy-ahead: nothing for Weeks 7–9; Joan of Arc later (~Week 22–25)
+- Skip: Parables from Nature; Wind in the Willows (finished)
