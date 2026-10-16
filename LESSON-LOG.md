@@ -119,7 +119,7 @@ Packet built 2026-09-28 (36 pages after WITW drop). Do not email/push until pare
 - Owned / hold: Seabird (~Week 19); Joan of Arc buy-ahead later (~Week 22–25)
 
 Updated 2026-09-28 (America/Chicago): Dropped Wind in the Willows from Week 5 — book finished; Friday slot is quiet riches (picture study / composer / longer nature), no new novel. Bible remains ESV verse identifiers / references only (no printed body text). Week 4 unchanged (already emailed).
-Monday send 2026-10-05 ~8:55am America/Chicago: Week 5 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com only (subject Week 5 · Form IB plan (Oct 7–10) + new monthly check-up; Week5-Form-IB.pdf (36 pages) + Checkup-2026-09-Astoria.pdf (9 pages); body introduces the monthly check-up and asks Hallie for feedback on format/timing/length, or to skip it; Bible ESV references only — no printed verse text; confirmed in Sent). September check-up went out with it — scores pending from Hallie (~Oct 10). Dashboard advanced to Week 5 live / Week 6 ahead.
+Monday send 2026-10-05 ~8:55am America/Chicago: Week 5 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com only (subject Week 5 · Form IB plan (Oct 7–10) + new monthly check-up; Week5-Form-IB.pdf (36 pages) + Checkup-2026-09-Astoria.pdf (9 pages); body introduces the monthly check-up and asks Hallie for feedback on format/timing/length, or to skip it; Bible ESV references only — no printed verse text; confirmed in Sent). September check-up went out with it (scored 2026-10-12: raw 55/93, adjusted 55/87). Dashboard advanced to Week 5 live / Week 6 ahead.
 
 ## Monthly check-up · September 2026 (Weeks 1–4) · Astoria
 PDF: `checkups/2026-09/Checkup-2026-09-Astoria.pdf` (9 pages). Built 2026-10-03; goes out with the Week 5 send (Mon Oct 5). Two short sittings (e.g. Fri Oct 9 + Sat Oct 10).
@@ -127,13 +127,13 @@ PDF: `checkups/2026-09/Checkup-2026-09-Astoria.pdf` (9 pages). Built 2026-10-03;
 - Math: 9 original problems in the Ray's New Practical Lessons 1–8 range (reading/writing numbers, place value, Roman numerals, adding; carrying only if covered)
 - Geography (compass, Tree in the Trail), Science (Burgess, nature walk), copywork (Silver), dictation (Some One), recitation (Genesis 1:1 by reference; a September poem), riches optional
 - Rubric 0–3 per item; score sheet with subject totals; no letter grades or percentiles. Tracy: no check-up.
-- Scores due ~Oct 10 (photo of score sheet or typed to Wren). Not normed; national comparison is one normed test in spring 2027.
-- Sent 2026-10-05 ~8:55am America/Chicago with the Week 5 email (attachment Checkup-2026-09-Astoria.pdf). Scores pending from Hallie (~Oct 10); not yet recorded. Hallie may also reply with format/timing/length feedback or choose to skip.
+- Scores came back as photos of Hallie's score sheet. Not normed; national comparison is one normed test in spring 2027.
+- Sent 2026-10-05 ~8:55am America/Chicago with the Week 5 email (attachment Checkup-2026-09-Astoria.pdf). Scored 2026-10-12 (given Oct 7–11 by Hallie): raw 55/93, adjusted 55/87 (Math 19/24, Geography 3/3 after n/a). Hallie's feedback: ask Bible by event not chapter number; pre-mark uncovered items n/a; Roman numerals only once Ray's reaches them; clearer folk-song recording.
 
 ## Week 6 · Wed 14 Oct – Sat 17 Oct 2026
 AO Y2 Term 1 Week 6. PDF: `weeks/week-06/Week6-Form-IB.pdf`
 
-Packet built 2026-10-05. Ready for Monday Oct 12 send. (42 pages; Burgess ch. 7 printed as optional.)
+Packet built 2026-10-05 (42 pages; Burgess ch. 7 printed as optional). Sent Mon 2026-10-12 1:55 PM America/Chicago from Tb's iCloud as a fallback (nala@ sending was down); being taught Oct 14–17.
 
 - Bible: Exodus 15 (15:19–27; Song of Moses 15:1–18 optional per AO), Exodus 16; Luke 20:19–26 — ESV by reference only (physical Bible; never print verse text)
 - Copywork: The Huntsmen (de la Mare) — Three jolly gentlemen, / In coats of red,
@@ -155,7 +155,7 @@ Packet built 2026-10-05. Ready for Monday Oct 12 send. (42 pages; Burgess ch. 7 
 ## Week 7 · Wed 21 Oct – Sat 24 Oct 2026
 AO Y2 Term 1 Week 7. PDF: `weeks/week-07/Week7-Form-IB.pdf`
 
-Packet built 2026-10-12 (47 pages). Planned send Mon Oct 19. (Week 6 Outbox ready for nala; not marked completed.)
+Packet built 2026-10-12 (47 pages). Outbox note `2026-10-19 Week 7 Plan.md` written 2026-10-16 as status: ready; nala sends Mon Oct 19 8:39 AM CT (Hallie, Tb cc'd).
 
 - Bible: Exodus 17 (Wed; Thu may finish if long); Luke 20:27–47 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn).
 - Copywork: The Bandog (de la Mare) — Has anybody seen my Mopser? —
@@ -175,3 +175,36 @@ Packet built 2026-10-12 (47 pages). Planned send Mon Oct 19. (Week 6 Outbox read
 - No Cooper chapter assignment; CM tips page instead
 - Owned / hold: Trial and Triumph next ~Week 9 Anselm; Seabird (~Week 19); buy-ahead: nothing for Weeks 7–9; Joan of Arc later (~Week 22–25)
 - Skip: Parables from Nature; Wind in the Willows (finished)
+
+## Week 8 · Wed 28 Oct – Sat 31 Oct 2026
+AO Y2 Term 1 Week 8. PDF: `weeks/week-08/Week8-Form-IB.pdf`
+
+Packet built 2026-10-16 (47 pages), same pipeline as Weeks 6–7 (`/workspace/pd-texts/build_week8.py` → `week8.html` → headless Chrome PDF). Send planned Mon Oct 26 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT). New this week: a contents page listing each printed reading with its named edition, edition page numbers, and packet pages.
+
+- Bible: Exodus 18 (Wed); Luke 21:1–4 (Thu); Luke 21:5–19 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn).
+- Copywork: Chicken (de la Mare) — Clapping her platter stood plump Bess,
+- Recitation: Genesis 1:1 ESV (reference only); optional: “The Bandog” by heart
+- Dictation (optional, Sat): the Chicken line, prepared
+- History: Our Island Story ch. 28, Henry I — The Story of the White Ship (printed; Stokes “An Island Story” pp. 129–136). No CHOW this AO week (Knights is Week 9). No Trial and Triumph (Anselm Week 9)
+- Tales: The Little Duke, ch. 4 second half (printed; Macmillan pp. 64–71) — chapter 4 finished; King Louis arrives
+- Geography: Tree in the Trail ch. 6 “The Bearer of Messages” from their copy (catch-up; do NOT jump to AO ch. 11–12)
+- Nature lore: Burgess Animal Book ch. 8 Whistler and Yap Yap (Little, Brown 1920 pp. 65–72); ch. 9 Two Queer Little Haymakers printed optional (pp. 73–81); do not jump to AO ch. 10–11
+- Literature: Understood Betsy ch. 7 (printed, two sittings; Holt 1917 pp. 137–161); Pilgrim’s Progress — Evangelist on Legality, Christian back to the wicket-gate, Good-will lets him in (~850 words; Dent 1910 pp. 25–28)
+- Shakespeare: Nesbit Romeo and Juliet ending (printed; Hertel, Jenkins 1907 pp. 112–118) — pre-read; Astoria only; gentle option to stop at the banishment
+- Poetry: de la Mare “Chicken” (Constable 1924 p. 13)
+- Shelf weave: Ray’s Lessons 21–24; Harvey’s twice (Thu + Sat); Grimm one tale by title (Snow-White and Rose-Red; alternates Star-Money / Mother Holle); McGuffey nearby for Tracy; Awana Wed+Thu after Bible
+- Hymn / folk / picture / composer: I Bind Unto Myself Today (st. 1); Bold Grenadier — clearer AO-linked sing-along recording (youtu.be/9U631tf08sM, folksandhymns); Rockwell Freedom from Want; Bernstein Jeremiah III “Lamentation”
+- Nature: Lost Pines late October — monarchs, yellow-rumped warblers, beautyberry, yaupon, loblolly cones, fall asters
+- Handicraft: pressed-leaf bookmark (collect Wed, make Fri)
+- Preschool corner page for Tracy (informal only)
+- No Cooper chapter assignment; CM tips page instead
+- Buy-ahead: nothing for Weeks 10–11; Joan of Arc later (~Week 22–25)
+- Skip: Parables from Nature; Wind in the Willows (finished)
+
+## Monthly check-up · October 2026 (Weeks 5–8) · Astoria
+PDF: `checkups/2026-10/Checkup-2026-10-Astoria.pdf` (10 pages). Drafted 2026-10-16; ships with the Week 9 Outbox send on Mon Nov 2 (no separate Outbox note). Applies Hallie’s September feedback: Bible asked by event, not chapter number; items not covered or needing missing materials pre-marked n/a (Roman numerals, compass); folk song pointed to a clearer recording. Rubric 0–3; no percentiles.
+- Narration: Little Duke (ch. 3–4), Understood Betsy (ch. 4–7), Pilgrim's Progress (Worldly Wiseman to the wicket-gate), Romeo and Juliet (optional), Island Story (William's death, William the Red, White Ship), Alfred or Real Castles
+- Bible by event (references for Hallie only): Red Sea (Ex 14–15), manna and quail (Ex 16), water from the rock and Amalek (Ex 17), Caesar's coin (Luke 20:19–26), widow's offering (Luke 21:1–4)
+- Math: 9 original problems in the Ray's Lessons 9–24 range (thousands, the zero in 408, facts, story sums, carrying; subtraction only if covered; Roman numerals pre-marked n/a)
+- Geography (compass pre-marked n/a; Tree in the Trail ch. 3–6), Science (Burgess ch. 5–8; Lost Pines walk), copywork (The Huntsmen), dictation (The Horseman), recitation (Genesis 1:1 by reference; an October poem), riches optional (folk song: play youtu.be/9U631tf08sM first)
+- Max 96 with the two pre-marked n/a items removed. Suggested sittings Fri Nov 6 + Sat Nov 7; scores back by Sat Nov 7. Tracy: no check-up.
