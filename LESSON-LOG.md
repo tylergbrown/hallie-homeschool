@@ -1,6 +1,6 @@
 # Lesson plan record
 
-Teacher: Hallie (halliedawnbrown@icloud.com)
+Teacher: Hallie
 Student: 2nd grade Form IB, plus preschool
 Place: Bastrop, Texas
 Days: Wednesday–Saturday
@@ -33,8 +33,8 @@ AO Y2 Term 1 Week 1. PDF: `weeks/week-01/Week1-Form-IB.pdf`
 - Nature: Lost Pines sit; Saturday evening invertebrate walk
 
 
-Emailed 2026-09-02 from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (test send, confirmed in Sent).
-Monday send 2026-09-07 8:40am America/Chicago: Week 1 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (subject Week 1 · Form IB plan (Sep 9–12); Week1-Form-IB.pdf; confirmed in Sent). Week 2 already on disk for next Monday.
+Emailed 2026-09-02 from Tb's iCloud to Hallie (test send, confirmed in Sent).
+Monday send 2026-09-07 8:40am America/Chicago: Week 1 PDF emailed from Tb's iCloud to Hallie (subject Week 1 · Form IB plan (Sep 9–12); Week1-Form-IB.pdf; confirmed in Sent). Week 2 already on disk for next Monday.
 
 ## Week 2 · Wed 16 Sep – Sat 19 Sep 2026
 AO Y2 Term 1 Week 2. PDF: `weeks/week-02/Week2-Form-IB.pdf`
@@ -77,7 +77,7 @@ AO Y2 Term 1 Week 3. PDF: `weeks/week-03/Week3-Form-IB.pdf`
 - Skip: CHOW; Parables from Nature; Hillyer geography this week
 
 Packet built 2026-09-16. Week 1/2 PDFs untouched. Live week remains Week 2 (Sep 16–19).
-Monday send 2026-09-21 ~8:44am America/Chicago: Week 3 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (subject Week 3 · Form IB plan (Sep 23–26); Week3-Form-IB.pdf; confirmed in Sent). Dashboard advanced to Week 3 live / Week 4 ahead.
+Monday send 2026-09-21 ~8:44am America/Chicago: Week 3 PDF emailed from Tb's iCloud to Hallie (subject Week 3 · Form IB plan (Sep 23–26); Week3-Form-IB.pdf; confirmed in Sent). Dashboard advanced to Week 3 live / Week 4 ahead.
 
 ## Week 4 · Wed 30 Sep – Sat 3 Oct 2026
 AO Y2 Term 1 Week 4. PDF: `weeks/week-04/Week4-Form-IB.pdf`
@@ -98,7 +98,7 @@ AO Y2 Term 1 Week 4. PDF: `weeks/week-04/Week4-Form-IB.pdf`
 - Skip: Parables from Nature; AO TITT jump past catch-up
 
 Packet built 2026-09-21. Ready for Monday Sep 28 send.
-Monday send 2026-09-28 ~8:25am America/Chicago: Week 4 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com (subject Week 4 · Form IB plan (Sep 30–Oct 3); Week4-Form-IB.pdf; Bible rebuilt to ESV references only — no printed verse text; confirmed in Sent). Dashboard advanced to Week 4 live / Week 5 ahead.
+Monday send 2026-09-28 ~8:25am America/Chicago: Week 4 PDF emailed from Tb's iCloud to Hallie (subject Week 4 · Form IB plan (Sep 30–Oct 3); Week4-Form-IB.pdf; Bible rebuilt to ESV references only — no printed verse text; confirmed in Sent). Dashboard advanced to Week 4 live / Week 5 ahead.
 
 ## Week 5 · Wed 7 Oct – Sat 10 Oct 2026
 AO Y2 Term 1 Week 5. PDF: `weeks/week-05/Week5-Form-IB.pdf`
@@ -119,7 +119,7 @@ Packet built 2026-09-28 (36 pages after WITW drop). Do not email/push until pare
 - Owned / hold: Seabird (~Week 19); Joan of Arc buy-ahead later (~Week 22–25)
 
 Updated 2026-09-28 (America/Chicago): Dropped Wind in the Willows from Week 5 — book finished; Friday slot is quiet riches (picture study / composer / longer nature), no new novel. Bible remains ESV verse identifiers / references only (no printed body text). Week 4 unchanged (already emailed).
-Monday send 2026-10-05 ~8:55am America/Chicago: Week 5 PDF emailed from tylerbrown7@icloud.com to halliedawnbrown@icloud.com only (subject Week 5 · Form IB plan (Oct 7–10) + new monthly check-up; Week5-Form-IB.pdf (36 pages) + Checkup-2026-09-Astoria.pdf (9 pages); body introduces the monthly check-up and asks Hallie for feedback on format/timing/length, or to skip it; Bible ESV references only — no printed verse text; confirmed in Sent). September check-up went out with it (scored 2026-10-12: raw 55/93, adjusted 55/87). Dashboard advanced to Week 5 live / Week 6 ahead.
+Monday send 2026-10-05 ~8:55am America/Chicago: Week 5 PDF emailed from Tb's iCloud to Hallie only (subject Week 5 · Form IB plan (Oct 7–10) + new monthly check-up; Week5-Form-IB.pdf (36 pages) + Checkup-2026-09-Astoria.pdf (9 pages); body introduces the monthly check-up and asks Hallie for feedback on format/timing/length, or to skip it; Bible ESV references only — no printed verse text; confirmed in Sent). September check-up went out with it (scored 2026-10-12: raw 55/93, adjusted 55/87). Dashboard advanced to Week 5 live / Week 6 ahead.
 
 ## Monthly check-up · September 2026 (Weeks 1–4) · Astoria
 PDF: `checkups/2026-09/Checkup-2026-09-Astoria.pdf` (9 pages). Built 2026-10-03; goes out with the Week 5 send (Mon Oct 5). Two short sittings (e.g. Fri Oct 9 + Sat Oct 10).
@@ -133,7 +133,7 @@ PDF: `checkups/2026-09/Checkup-2026-09-Astoria.pdf` (9 pages). Built 2026-10-03;
 ## Week 6 · Wed 14 Oct – Sat 17 Oct 2026
 AO Y2 Term 1 Week 6. PDF: `weeks/week-06/Week6-Form-IB.pdf`
 
-Packet built 2026-10-05 (42 pages; Burgess ch. 7 printed as optional). Sent Mon 2026-10-12 1:55 PM America/Chicago from Tb's iCloud as a fallback (nala@ sending was down); being taught Oct 14–17.
+Packet built 2026-10-05 (42 pages; Burgess ch. 7 printed as optional). Sent Mon 2026-10-12 1:55 PM America/Chicago from Tb's iCloud as a fallback (nala sending was down); being taught Oct 14–17.
 
 - Bible: Exodus 15 (15:19–27; Song of Moses 15:1–18 optional per AO), Exodus 16; Luke 20:19–26 — ESV by reference only (physical Bible; never print verse text)
 - Copywork: The Huntsmen (de la Mare) — Three jolly gentlemen, / In coats of red,
