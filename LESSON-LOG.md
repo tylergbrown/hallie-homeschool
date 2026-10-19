@@ -133,7 +133,8 @@ PDF: `checkups/2026-09/Checkup-2026-09-Astoria.pdf` (9 pages). Built 2026-10-03;
 ## Week 6 · Wed 14 Oct – Sat 17 Oct 2026
 AO Y2 Term 1 Week 6. PDF: `weeks/week-06/Week6-Form-IB.pdf`
 
-Packet built 2026-10-05 (42 pages; Burgess ch. 7 printed as optional). Sent Mon 2026-10-12 1:55 PM America/Chicago from Tb's iCloud as a fallback (nala sending was down); being taught Oct 14–17.
+Packet built 2026-10-05 (42 pages; Burgess ch. 7 printed as optional). Sent Mon 2026-10-12 1:55 PM America/Chicago from Tb's iCloud as a fallback (nala sending was down); taught Oct 14–17.
+Completed 2026-10-17 (recorded 2026-10-19): all planned lessons counted done; no skips reported by Hallie.
 
 - Bible: Exodus 15 (15:19–27; Song of Moses 15:1–18 optional per AO), Exodus 16; Luke 20:19–26 — ESV by reference only (physical Bible; never print verse text)
 - Copywork: The Huntsmen (de la Mare) — Three jolly gentlemen, / In coats of red,
@@ -156,6 +157,7 @@ Packet built 2026-10-05 (42 pages; Burgess ch. 7 printed as optional). Sent Mon 
 AO Y2 Term 1 Week 7. PDF: `weeks/week-07/Week7-Form-IB.pdf`
 
 Packet built 2026-10-12 (47 pages). Outbox note `2026-10-19 Week 7 Plan.md` written 2026-10-16 as status: ready; nala sends Mon Oct 19 8:39 AM CT (Hallie, Tb cc'd).
+Updated 2026-10-19: Outbox ready, nala sending Mon Oct 19 8:39 AM CT. Being taught Wed Oct 21 – Sat Oct 24.
 
 - Bible: Exodus 17 (Wed; Thu may finish if long); Luke 20:27–47 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn).
 - Copywork: The Bandog (de la Mare) — Has anybody seen my Mopser? —
@@ -199,6 +201,32 @@ Packet built 2026-10-16 (47 pages), same pipeline as Weeks 6–7 (`/workspace/pd
 - Preschool corner page for Tracy (informal only)
 - No Cooper chapter assignment; CM tips page instead
 - Buy-ahead: nothing for Weeks 10–11; Joan of Arc later (~Week 22–25)
+- Skip: Parables from Nature; Wind in the Willows (finished)
+
+## Week 9 · Wed 4 Nov – Sat 7 Nov 2026
+AO Y2 Term 1 Week 9. PDF: `weeks/week-09/Week9-Form-IB.pdf`
+
+Packet built 2026-10-19 (48 pages), same pipeline as Weeks 6–8 (`/workspace/pd-texts/build_week9.py` → `week9.html` → headless Chrome PDF), with the contents page of printed readings (named edition, edition pages, packet pages). Send planned Mon Nov 2 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT), with the October check-up attached.
+
+- Bible: Exodus 19 (Wed); Exodus 20 (Thu); Luke 21:20–38 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn).
+- Copywork: Bread and Cherries (de la Mare) — “Cherries, ripe cherries!” The old woman cried,
+- Recitation: Genesis 1:1 ESV (reference only; add verse 2 if solid); optional: “Chicken” by heart
+- Dictation (optional, Sat): the Cherries line, prepared
+- History: Our Island Story ch. 29, The Story of King Stephen (printed; Stokes “An Island Story” pp. 137–140)
+- World history: Hillyer CHOW “Knights and Days of Chivalry” (ch. 51 modern / ch. 49 1st ed) from their copy only — never reprint. Trial and Triumph: Anselm (Sat) from their copy only — never reprint
+- Tales: The Little Duke, ch. 5 first half (printed; Macmillan pp. 72–83) — second half next week
+- Geography: Tree in the Trail ch. 7 from their copy (catch-up; do NOT jump ahead to the AO chapters)
+- Nature lore: Burgess Animal Book ch. 9 Two Queer Little Haymakers (Little, Brown 1920 pp. 73–81; review briefly if read as the W8 optional); ch. 10 Prickly Porky and Grubby Gopher printed optional (pp. 82–89)
+- Literature: Understood Betsy ch. 8 (printed, two sittings; Holt 1917 pp. 161–185); Pilgrim’s Progress — Good-will, then the Interpreter’s house (Dent 1910 pp. 28–31)
+- Shakespeare: none (Nesbit Romeo and Juliet finished Week 8)
+- Poetry: de la Mare “Bread and Cherries” (Constable 1924 p. 15)
+- Shelf weave: Ray’s Lessons 25–28; Harvey’s twice (Thu + Sat); Grimm one tale by title (The Golden Goose; alternates Mother Holle / The Fisherman and His Wife); McGuffey nearby for Tracy; Awana Wed+Thu after Bible
+- Hymn / folk / picture / composer: I Bind Unto Myself Today (keep st. 1; add st. 2 if solid); Bold Grenadier (clearer AO-linked sing-along, youtu.be/9U631tf08sM); Rockwell Freedom from Fear (last of the Four Freedoms); Bernstein Three Dance Episodes from On the Town
+- Nature: Lost Pines early November — first cool fronts, sandhill cranes overhead, ruby-crowned kinglets, yellow-rumped warblers, possumhaw and yaupon berries, beautyberry, post-oak acorns, flameleaf sumac, woolly bears
+- Handicraft: pine-cone bird feeder (collect cones Wed, make Fri)
+- Preschool corner page for Tracy (informal only)
+- No Cooper chapter assignment; CM tips page instead
+- Buy-ahead: nothing for Weeks 11–12; Joan of Arc later (~Week 22–25); Seabird owned (~Week 19)
 - Skip: Parables from Nature; Wind in the Willows (finished)
 
 ## Monthly check-up · October 2026 (Weeks 5–8) · Astoria
