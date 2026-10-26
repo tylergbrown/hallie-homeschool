@@ -158,6 +158,7 @@ AO Y2 Term 1 Week 7. PDF: `weeks/week-07/Week7-Form-IB.pdf`
 
 Packet built 2026-10-12 (47 pages). Outbox note `2026-10-19 Week 7 Plan.md` written 2026-10-16 as status: ready; nala sends Mon Oct 19 8:39 AM CT (Hallie, Tb cc'd).
 Updated 2026-10-19: Outbox ready, nala sending Mon Oct 19 8:39 AM CT. Being taught Wed Oct 21 – Sat Oct 24.
+Updated 2026-10-26: COMPLETED Wed Oct 21 – Sat Oct 24. All planned lessons counted done; no skips reported by Hallie.
 
 - Bible: Exodus 17 (Wed; Thu may finish if long); Luke 20:27–47 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn).
 - Copywork: The Bandog (de la Mare) — Has anybody seen my Mopser? —
@@ -203,6 +204,8 @@ Packet built 2026-10-16 (47 pages), same pipeline as Weeks 6–7 (`/workspace/pd
 - Buy-ahead: nothing for Weeks 10–11; Joan of Arc later (~Week 22–25)
 - Skip: Parables from Nature; Wind in the Willows (finished)
 
+Updated 2026-10-26: Outbox note `2026-10-26 Week 8 Plan.md` status: ready at 8:30 AM CT; nala sends today (Mon Oct 26) at 8:39 AM CT. Taught Wed Oct 28 – Sat Oct 31.
+
 ## Week 9 · Wed 4 Nov – Sat 7 Nov 2026
 AO Y2 Term 1 Week 9. PDF: `weeks/week-09/Week9-Form-IB.pdf`
 
@@ -228,6 +231,33 @@ Packet built 2026-10-19 (48 pages), same pipeline as Weeks 6–8 (`/workspace/pd
 - No Cooper chapter assignment; CM tips page instead
 - Buy-ahead: nothing for Weeks 11–12; Joan of Arc later (~Week 22–25); Seabird owned (~Week 19)
 - Skip: Parables from Nature; Wind in the Willows (finished)
+
+## Week 10 · Wed 11 Nov – Sat 14 Nov 2026
+AO Y2 Term 1 Week 10. PDF: `weeks/week-10/Week10-Form-IB.pdf`
+
+Packet built 2026-10-26 (46 pages), same pipeline as Weeks 6–9 (`/workspace/pd-texts/build_week10.py` → `week10.html` → headless Chrome PDF; build script, extract script and html also in `archive/week-10-2026-11-11/`), with the contents page of printed readings (named edition, edition pages, packet pages). Send planned Mon Nov 9 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT).
+
+- Bible: Exodus 31:18–32:35 (Wed); Exodus 33 (Thu); Luke 22:1–13 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn). Intensity: Ex 32:25–29 (about 3,000 killed) — pre-read; may stop at v. 24
+- Copywork: Old Shellover (de la Mare) — ‘Come!’ said Old Shellover. ‘What?’ says Creep.
+- Recitation: Genesis 1:1–2 ESV (reference only); optional: “Bread and Cherries” by heart
+- Dictation (optional, Sat): the Shellover line, prepared
+- History: Our Island Story ch. 30, Henry II — The Story of Gilbert and Rohesia (printed; Stokes “An Island Story” pp. 141–144)
+- World history: Hillyer CHOW “A Pirate’s Great Grandson” (ch. 52 modern / ch. 50 1st ed) Saturday, from their copy only — never reprint. Next CHOW in order; AO places it in Week 11, so Week 11 can go on to “A Great Adventure” or rest. No Trial and Triumph (next in Term 2, Bernard of Clairvaux)
+- Tales: The Little Duke, ch. 5 second half (printed; Macmillan pp. 83–102) in two sittings Thu + Fri (Fri begins p. 91, “At a sign from the Count de Harcourt”) — chapter 5 finished
+- Geography: Tree in the Trail ch. 8 from their copy (catch-up; do NOT jump to AO ch. 14–15)
+- Nature lore: Burgess Animal Book ch. 10 Prickly Porky and Grubby Gopher (Little, Brown 1920 pp. 82–89; review briefly if read as the W9 optional); ch. 11 A Fellow With a Thousand Spears printed optional (pp. 90–98); do not jump to AO ch. 13
+- Literature: Understood Betsy ch. 9 The New Clothes Fail (printed, two sittings; Holt 1917 pp. 186–200; intensity: stepfather sells the clothes for whiskey, Ralph’s angry words — pre-read); Pilgrim’s Progress — the Interpreter’s rooms: dusty parlour, Passion and Patience, the fire, the valiant man (Dent 1910 pp. 31–35)
+- Shakespeare: none
+- Poetry: de la Mare “Old Shellover” (Peacock Pie, Constable 1924 p. 16)
+- Shelf weave: Ray’s Lessons 29–32; Harvey’s twice (Thu + Sat); Grimm one tale by title (Mother Holle; alternates The Fisherman and His Wife / The Star-Money); McGuffey nearby for Tracy; Awana Wed+Thu after Bible
+- Hymn / folk / picture / composer: I Bind Unto Myself Today (st. 1–2); Bold Grenadier (clearer AO-linked sing-along, youtu.be/9U631tf08sM); Rockwell Shuffleton’s Barber Shop (1950); Bernstein Serenade (after Plato’s Symposium)
+- Nature: Lost Pines mid-November — cool fronts, sandhill cranes, kinglets and yellow-rumped warblers, yaupon and possumhaw berries, flameleaf sumac, sweetgum leaves and gumballs, snails after damp nights
+- Handicraft: pressed-leaf placemats for the Thanksgiving table (collect Wed, make Fri)
+- Preschool corner page for Tracy (informal only)
+- No Cooper chapter assignment; CM tips page instead
+- Buy-ahead: nothing for Weeks 12–13; Joan of Arc later (~Week 22–25); Seabird owned (~Week 19)
+- Skip: Parables from Nature; Wind in the Willows (finished)
+- OPEN QUESTION before building past Week 10: Week 12 falls on Thanksgiving week (Wed Nov 25 – Sat Nov 28). Will the family school that week, a short week, or take it off? Week 11 not built yet.
 
 ## Monthly check-up · October 2026 (Weeks 5–8) · Astoria
 PDF: `checkups/2026-10/Checkup-2026-10-Astoria.pdf` (10 pages). Drafted 2026-10-16; ships with the Week 9 Outbox send on Mon Nov 2 (no separate Outbox note). Applies Hallie’s September feedback: Bible asked by event, not chapter number; items not covered or needing missing materials pre-marked n/a (Roman numerals, compass); folk song pointed to a clearer recording. Rubric 0–3; no percentiles.
