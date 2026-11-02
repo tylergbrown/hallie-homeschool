@@ -14,6 +14,10 @@ Family took the school week of Sep 2–5 2026 off. All Form IB plans shifted for
 - Shelf books + Awana Week 3: starts Sep 23–26 2026
 - Owned now: Tree in the Trail, Trial and Triumph, Seabird (do not buy again). T&T next assign ~Week 5 Alfred; Seabird ~Week 19; Joan of Arc later (~Week 25).
 
+## Calendar note · 2026-10-26 (Thanksgiving) · logged 2026-11-02
+Tb decided 2026-10-26: NO school Thanksgiving week (Wed Nov 25 – Sat Nov 28). Week 11 = Wed–Sat Nov 18–21 (ships Mon Nov 16); Week 12 = Wed–Sat Dec 2–5 (ships Mon Nov 30).
+AO Term 1 exam: the AO Year 2 schedule (amblesideonline.org/ao-y2-sch, checked 2026-11-02) lists an “Optional Exam Week” AFTER Week 12 and before Week 13; Week 12 itself is a normal reading week. Exam questions: amblesideonline.org/exam-02a. Earliest slot for us: Wed–Sat Dec 9–12 before Term 2 starts. Decide when planning Week 12 whether to give the AO exam that week, fold it into the November check-up (Weeks 9–12), or skip it.
+
 ## Week 1 · Wed 9 Sep – Sat 12 Sep 2026
 AO Y2 Term 1 Week 1. PDF: `weeks/week-01/Week1-Form-IB.pdf`
 
@@ -205,11 +209,13 @@ Packet built 2026-10-16 (47 pages), same pipeline as Weeks 6–7 (`/workspace/pd
 - Skip: Parables from Nature; Wind in the Willows (finished)
 
 Updated 2026-10-26: Outbox note `2026-10-26 Week 8 Plan.md` status: ready at 8:30 AM CT; nala sends today (Mon Oct 26) at 8:39 AM CT. Taught Wed Oct 28 – Sat Oct 31.
+Updated 2026-11-02: Sent by nala Mon Oct 26 8:50 AM CT (Outbox status: sent). COMPLETED Wed Oct 28 – Sat Oct 31. All planned lessons counted done; no skips reported by Hallie.
 
 ## Week 9 · Wed 4 Nov – Sat 7 Nov 2026
 AO Y2 Term 1 Week 9. PDF: `weeks/week-09/Week9-Form-IB.pdf`
 
 Packet built 2026-10-19 (48 pages), same pipeline as Weeks 6–8 (`/workspace/pd-texts/build_week9.py` → `week9.html` → headless Chrome PDF), with the contents page of printed readings (named edition, edition pages, packet pages). Send planned Mon Nov 2 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT), with the October check-up attached.
+Updated 2026-11-02: Outbox note `2026-11-02 Week 9 Plan.md` status: ready (8:20 AM CT check); nala sends today (Mon Nov 2) at 8:39 AM CT with the October check-up. Teaching Wed Nov 4 – Sat Nov 7.
 
 - Bible: Exodus 19 (Wed); Exodus 20 (Thu); Luke 21:20–38 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn).
 - Copywork: Bread and Cherries (de la Mare) — “Cherries, ripe cherries!” The old woman cried,
@@ -257,7 +263,35 @@ Packet built 2026-10-26 (46 pages), same pipeline as Weeks 6–9 (`/workspace/pd
 - No Cooper chapter assignment; CM tips page instead
 - Buy-ahead: nothing for Weeks 12–13; Joan of Arc later (~Week 22–25); Seabird owned (~Week 19)
 - Skip: Parables from Nature; Wind in the Willows (finished)
-- OPEN QUESTION before building past Week 10: Week 12 falls on Thanksgiving week (Wed Nov 25 – Sat Nov 28). Will the family school that week, a short week, or take it off? Week 11 not built yet.
+- Updated 2026-11-02: Week 10 PDF rebuilt (still 46 pages, same page map) so its shelf page and preview no longer ask Hallie the Thanksgiving question; they state the decision instead.
+- Thanksgiving DECIDED (Tb, 2026-10-26): no school Thanksgiving week (Nov 25–28). Week 11 = Nov 18–21 (ships Nov 16); Week 12 = Dec 2–5 (ships Nov 30). See the calendar note at the top.
+
+## Week 11 · Wed 18 Nov – Sat 21 Nov 2026
+AO Y2 Term 1 Week 11. PDF: `weeks/week-11/Week11-Form-IB.pdf`
+
+Packet built 2026-11-02 (50 pages), same pipeline as Weeks 6–10 (`/workspace/pd-texts/build_week11.py` → `week11.html` → headless Chrome PDF; build script, extract script, page finder and html also in `archive/week-11-2026-11-18/`), with the contents page of printed readings (named edition, edition pages, packet pages). Send planned Mon Nov 16 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT). No school the following week (Thanksgiving, Nov 25–28).
+
+- Bible: Exodus 34 (Wed); Exodus 35:1–36:7 (Thu; 36:8–38 optional building lists); Luke 22:14–38 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn). Pre-read: Luke 22:14–20 (Lord’s Supper — talk about it the family’s own way)
+- Copywork: The Little Bird (de la Mare) — In from the dark ivy hopped a / Wee small bird: and that was Me.
+- Recitation: Genesis 1:1–2 ESV (reference only; add v. 3 only if easy); optional: “Old Shellover” by heart
+- Dictation (optional, Sat): the Little Bird line, prepared
+- History: Our Island Story ch. 31, Henry Plantagenet — The Story of Thomas à Becket (printed; Stokes “An Island Story” pp. 145–151; optional break p. 148 at “After a time Henry forgave Thomas”). Intensity: Becket killed in the cathedral — pre-read
+- World history: Hillyer CHOW “A Great Adventure” (ch. 53 modern / ch. 51 1st ed; First Crusade) Saturday, from their copy only — never reprint. One week ahead of AO (AO has it in Week 12); Week 12 can go on to “Tick-Tack-Toe” (ch. 54) or rest. No Trial and Triumph (next in Term 2, Bernard of Clairvaux)
+- Tales: The Little Duke, ch. 6 first half (printed; Macmillan pp. 102–114) in two sittings Thu + Fri (Fri begins p. 108, “Thus they travelled until they reached the royal Castle of Laon”); stops before “At supper” — second half Week 12
+- Geography: Tree in the Trail ch. 9 from their copy (catch-up; do NOT jump to AO ch. 16)
+- Nature lore: Burgess Animal Book ch. 11 A Fellow With a Thousand Spears (Little, Brown 1920 pp. 90–98; review briefly if read as the W10 optional); ch. 12 A Lumberman and Engineer printed optional (pp. 99–111); do not jump to AO ch. 14
+- Literature: Understood Betsy ch. 10 Betsy Has a Birthday (printed, three sittings — Wed pm, Fri pm from p. 210 “Betsy stopped short,” Sat from p. 221 “Betsy mounted on a soap box”; Holt 1917 pp. 201–233; ~5,700 words); Pilgrim’s Progress — the man in the iron cage, the dream of the Judgment, farewell to the Interpreter (Dent 1910 pp. 36–39; ~1,300 words; pre-read the Judgment dream). Next: the Cross (Dent p. 39 on)
+- Shakespeare: none
+- Poetry: de la Mare “The Little Bird” (Peacock Pie, Constable 1924 p. 18). Skipped “Hapless” (odd superstition poem)
+- Shelf weave: Ray’s Lessons 33–36; Harvey’s twice (Thu + Sat); Grimm one tale by title (The Fisherman and His Wife; alternates The Star-Money / Sweet Porridge); McGuffey nearby for Tracy; Awana Wed+Thu after Bible
+- Hymn / folk / picture / composer: I Bind Unto Myself Today (st. 1–2); Bold Grenadier (clearer AO-linked sing-along, youtu.be/9U631tf08sM); Rockwell Saying Grace (1951); Bernstein On the Waterfront Symphonic Suite (1954). Shelf page offers AO’s November picks (hymn “When Morning Gilds the Skies,” folk “The Rising of the Moon”) as an optional switch
+- Nature: Lost Pines late November — peak fall color (sweetgum, red oaks, sumac), robins and cedar waxwings on yaupon and possumhaw, sandhill cranes, possible first frost, squirrels caching acorns, beaver sign along the Colorado
+- Handicraft: Thanksgiving place cards (gather leaves/acorn caps Wed, make Fri)
+- Preschool corner page for Tracy (informal only)
+- No Cooper chapter assignment; CM tips page instead
+- Buy-ahead: nothing for Weeks 12–14; Joan of Arc later (~Week 22–25); Seabird owned (~Week 19)
+- Skip: Parables from Nature; Wind in the Willows (finished)
+- For Week 12 planning: AO’s Optional Exam Week follows Week 12 (see calendar note). AO Term 2 puts Wind in the Willows in the literature slot (finished), so Term 2 needs a replacement literature read — ask Tb/Hallie.
 
 ## Monthly check-up · October 2026 (Weeks 5–8) · Astoria
 PDF: `checkups/2026-10/Checkup-2026-10-Astoria.pdf` (10 pages). Drafted 2026-10-16; ships with the Week 9 Outbox send on Mon Nov 2 (no separate Outbox note). Applies Hallie’s September feedback: Bible asked by event, not chapter number; items not covered or needing missing materials pre-marked n/a (Roman numerals, compass); folk song pointed to a clearer recording. Rubric 0–3; no percentiles.
