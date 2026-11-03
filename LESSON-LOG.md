@@ -15,8 +15,19 @@ Family took the school week of Sep 2–5 2026 off. All Form IB plans shifted for
 - Owned now: Tree in the Trail, Trial and Triumph, Seabird (do not buy again). T&T next assign ~Week 5 Alfred; Seabird ~Week 19; Joan of Arc later (~Week 25).
 
 ## Calendar note · 2026-10-26 (Thanksgiving) · logged 2026-11-02
-Tb decided 2026-10-26: NO school Thanksgiving week (Wed Nov 25 – Sat Nov 28). Week 11 = Wed–Sat Nov 18–21 (ships Mon Nov 16); Week 12 = Wed–Sat Dec 2–5 (ships Mon Nov 30).
+Tb decided 2026-10-26: NO school Thanksgiving week (Wed Nov 25 – Sat Nov 28). Week 11 = Wed–Sat Nov 18–21 (ships Mon Nov 16); Week 12 = Wed–Sat Dec 2–5 (ships Mon Nov 30). **Superseded 2026-11-02 by the Week 8 slide (next note): Week 10 = Nov 18–21, Week 11 = Dec 2–5, Week 12 = Dec 9–12; Thanksgiving still off.**
 AO Term 1 exam: the AO Year 2 schedule (amblesideonline.org/ao-y2-sch, checked 2026-11-02) lists an “Optional Exam Week” AFTER Week 12 and before Week 13; Week 12 itself is a normal reading week. Exam questions: amblesideonline.org/exam-02a. Earliest slot for us: Wed–Sat Dec 9–12 before Term 2 starts. Decide when planning Week 12 whether to give the AO exam that week, fold it into the November check-up (Weeks 9–12), or skip it.
+
+## Calendar note · 2026-11-02 (Week 8 skipped) · logged 2026-11-02 11 PM CT
+Tb, Mon Nov 2 2026 ~11 PM CT: Week 8 (planned Wed–Sat Oct 28–31) was SKIPPED — not taught, no completion. Week 8 is taught this week and every later week slides back one. Content unchanged; only calendar dates moved. PDFs rebuilt with the new day-page dates (same page counts); archive folder names keep their original dates.
+- Week 8 (AO Y2 T1 W8): now Wed–Sat Nov 4–7 2026 (was Oct 28–31, skipped)
+- Week 9 (AO Y2 T1 W9): now Wed–Sat Nov 11–14 2026 (was Nov 4–7); ships Mon Nov 9
+- Week 10 (AO Y2 T1 W10): now Wed–Sat Nov 18–21 2026 (was Nov 11–14); ships Mon Nov 16
+- Thanksgiving week Wed–Sat Nov 25–28: no school (unchanged)
+- Week 11 (AO Y2 T1 W11): now Wed–Sat Dec 2–5 2026 (was Nov 18–21); ships Mon Nov 30
+- Week 12 (AO Y2 T1 W12): now Wed–Sat Dec 9–12 2026 (was Dec 2–5); ships Mon Dec 7
+- AO optional Term 1 exam week: earliest slot now Dec 16–19 (was Dec 9–12)
+- October check-up: Week 8 material was not taught before it; Hallie gives the Week-8 items after Nov 7 or marks them n/a. No scores yet.
 
 ## Week 1 · Wed 9 Sep – Sat 12 Sep 2026
 AO Y2 Term 1 Week 1. PDF: `weeks/week-01/Week1-Form-IB.pdf`
@@ -183,7 +194,7 @@ Updated 2026-10-26: COMPLETED Wed Oct 21 – Sat Oct 24. All planned lessons cou
 - Owned / hold: Trial and Triumph next ~Week 9 Anselm; Seabird (~Week 19); buy-ahead: nothing for Weeks 7–9; Joan of Arc later (~Week 22–25)
 - Skip: Parables from Nature; Wind in the Willows (finished)
 
-## Week 8 · Wed 28 Oct – Sat 31 Oct 2026
+## Week 8 · Wed 4 Nov – Sat 7 Nov 2026 (Oct 28–31 SKIPPED)
 AO Y2 Term 1 Week 8. PDF: `weeks/week-08/Week8-Form-IB.pdf`
 
 Packet built 2026-10-16 (47 pages), same pipeline as Weeks 6–7 (`/workspace/pd-texts/build_week8.py` → `week8.html` → headless Chrome PDF). Send planned Mon Oct 26 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT). New this week: a contents page listing each printed reading with its named edition, edition page numbers, and packet pages.
@@ -209,13 +220,15 @@ Packet built 2026-10-16 (47 pages), same pipeline as Weeks 6–7 (`/workspace/pd
 - Skip: Parables from Nature; Wind in the Willows (finished)
 
 Updated 2026-10-26: Outbox note `2026-10-26 Week 8 Plan.md` status: ready at 8:30 AM CT; nala sends today (Mon Oct 26) at 8:39 AM CT. Taught Wed Oct 28 – Sat Oct 31.
-Updated 2026-11-02: Sent by nala Mon Oct 26 8:50 AM CT (Outbox status: sent). COMPLETED Wed Oct 28 – Sat Oct 31. All planned lessons counted done; no skips reported by Hallie.
+Updated 2026-11-02 (morning): Sent by nala Mon Oct 26 8:50 AM CT (Outbox status: sent). Was logged COMPLETED Oct 28–31 by default — **withdrawn**.
+Updated 2026-11-02 11 PM CT: **Oct 28–31 SKIPPED** (Tb) — Week 8 was not taught that week; no completion. **Teaching Wed Nov 4 – Sat Nov 7.** PDF rebuilt with Nov 4–7 day pages (content unchanged, 47 pages). Restart note `Outbox/2026-11-03 Week 8 Restart.md` is status: draft (Tb approves before it goes to Hallie).
 
-## Week 9 · Wed 4 Nov – Sat 7 Nov 2026
+## Week 9 · Wed 11 Nov – Sat 14 Nov 2026 (was Nov 4–7)
 AO Y2 Term 1 Week 9. PDF: `weeks/week-09/Week9-Form-IB.pdf`
 
 Packet built 2026-10-19 (48 pages), same pipeline as Weeks 6–8 (`/workspace/pd-texts/build_week9.py` → `week9.html` → headless Chrome PDF), with the contents page of printed readings (named edition, edition pages, packet pages). Send planned Mon Nov 2 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT), with the October check-up attached.
 Updated 2026-11-02: Outbox note `2026-11-02 Week 9 Plan.md` status: ready (8:20 AM CT check); nala sends today (Mon Nov 2) at 8:39 AM CT with the October check-up. Teaching Wed Nov 4 – Sat Nov 7.
+Updated 2026-11-02 11 PM CT: calendar slid (Week 8 skipped). **Teaching Wed Nov 11 – Sat Nov 14; ships Mon Nov 9.** PDF rebuilt with Nov 11–14 day pages (content unchanged, 48 pages). The Outbox note was still `status: ready` (not sent; no Week 9 email in nala's sent mail), so it was set to `status: draft` (held) to keep it from going out with the old Nov 4–7 dates; reword for Nov 11–14 before Nov 9.
 
 - Bible: Exodus 19 (Wed); Exodus 20 (Thu); Luke 21:20–38 (Sat) — ESV by reference only (physical Bible; never print verse text). Fri lighter (hymn).
 - Copywork: Bread and Cherries (de la Mare) — “Cherries, ripe cherries!” The old woman cried,
@@ -238,7 +251,7 @@ Updated 2026-11-02: Outbox note `2026-11-02 Week 9 Plan.md` status: ready (8:20 
 - Buy-ahead: nothing for Weeks 11–12; Joan of Arc later (~Week 22–25); Seabird owned (~Week 19)
 - Skip: Parables from Nature; Wind in the Willows (finished)
 
-## Week 10 · Wed 11 Nov – Sat 14 Nov 2026
+## Week 10 · Wed 18 Nov – Sat 21 Nov 2026 (was Nov 11–14)
 AO Y2 Term 1 Week 10. PDF: `weeks/week-10/Week10-Form-IB.pdf`
 
 Packet built 2026-10-26 (46 pages), same pipeline as Weeks 6–9 (`/workspace/pd-texts/build_week10.py` → `week10.html` → headless Chrome PDF; build script, extract script and html also in `archive/week-10-2026-11-11/`), with the contents page of printed readings (named edition, edition pages, packet pages). Send planned Mon Nov 9 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT).
@@ -265,8 +278,9 @@ Packet built 2026-10-26 (46 pages), same pipeline as Weeks 6–9 (`/workspace/pd
 - Skip: Parables from Nature; Wind in the Willows (finished)
 - Updated 2026-11-02: Week 10 PDF rebuilt (still 46 pages, same page map) so its shelf page and preview no longer ask Hallie the Thanksgiving question; they state the decision instead.
 - Thanksgiving DECIDED (Tb, 2026-10-26): no school Thanksgiving week (Nov 25–28). Week 11 = Nov 18–21 (ships Nov 16); Week 12 = Dec 2–5 (ships Nov 30). See the calendar note at the top.
+- Updated 2026-11-02 11 PM CT: calendar slid (Week 8 skipped). **Teaching Wed Nov 18 – Sat Nov 21; ships Mon Nov 16.** PDF rebuilt with Nov 18–21 day pages (content unchanged, 46 pages); its calendar lines now read Thanksgiving week (Nov 25–28) off, Week 11 = Dec 2–5, Week 12 = Dec 9–12.
 
-## Week 11 · Wed 18 Nov – Sat 21 Nov 2026
+## Week 11 · Wed 2 Dec – Sat 5 Dec 2026 (was Nov 18–21)
 AO Y2 Term 1 Week 11. PDF: `weeks/week-11/Week11-Form-IB.pdf`
 
 Packet built 2026-11-02 (50 pages), same pipeline as Weeks 6–10 (`/workspace/pd-texts/build_week11.py` → `week11.html` → headless Chrome PDF; build script, extract script, page finder and html also in `archive/week-11-2026-11-18/`), with the contents page of printed readings (named edition, edition pages, packet pages). Send planned Mon Nov 16 through the Outbox (Wren writes the note by 8:00 AM CT; nala sends at 8:39 AM CT). No school the following week (Thanksgiving, Nov 25–28).
@@ -291,6 +305,7 @@ Packet built 2026-11-02 (50 pages), same pipeline as Weeks 6–10 (`/workspace/p
 - No Cooper chapter assignment; CM tips page instead
 - Buy-ahead: nothing for Weeks 12–14; Joan of Arc later (~Week 22–25); Seabird owned (~Week 19)
 - Skip: Parables from Nature; Wind in the Willows (finished)
+- Updated 2026-11-02 11 PM CT: calendar slid (Week 8 skipped). **Teaching Wed Dec 2 – Sat Dec 5 (after Thanksgiving week off); ships Mon Nov 30.** PDF rebuilt with Dec 2–5 day pages (content unchanged, 50 pages); its calendar lines now say Thanksgiving week was off and Week 12 = Dec 9–12. Seasonal pieces (late-November nature page, Thanksgiving place cards, Saying Grace “before Thanksgiving”) left as built — swap if Tb/Hallie want.
 - For Week 12 planning: AO’s Optional Exam Week follows Week 12 (see calendar note). AO Term 2 puts Wind in the Willows in the literature slot (finished), so Term 2 needs a replacement literature read — ask Tb/Hallie.
 
 ## Monthly check-up · October 2026 (Weeks 5–8) · Astoria
@@ -300,3 +315,4 @@ PDF: `checkups/2026-10/Checkup-2026-10-Astoria.pdf` (10 pages). Drafted 2026-10-
 - Math: 9 original problems in the Ray's Lessons 9–24 range (thousands, the zero in 408, facts, story sums, carrying; subtraction only if covered; Roman numerals pre-marked n/a)
 - Geography (compass pre-marked n/a; Tree in the Trail ch. 3–6), Science (Burgess ch. 5–8; Lost Pines walk), copywork (The Huntsmen), dictation (The Horseman), recitation (Genesis 1:1 by reference; an October poem), riches optional (folk song: play youtu.be/9U631tf08sM first)
 - Max 96 with the two pre-marked n/a items removed. Suggested sittings Fri Nov 6 + Sat Nov 7; scores back by Sat Nov 7. Tracy: no check-up.
+- Updated 2026-11-02 11 PM CT: Week 8 material was not taught before the check-up (Week 8 skipped Oct 28–31; taught Nov 4–7). Hallie should give the Week-8 items after Nov 7 or mark them n/a. The check-up did not go out Nov 2 (Week 9 Outbox not sent); it now ships with Week 9 on Mon Nov 9. No scores yet.
